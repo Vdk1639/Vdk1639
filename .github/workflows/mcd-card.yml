@@ -15,5 +15,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: colorfulee/McReadme-Card@main
         with:
-          mcd_token: ${{ secrets.MCD_MCP_TOKEN }}
+          mcd_token: ${{ secrets.MCD_MCP_TOKE }}
           theme: receipt
