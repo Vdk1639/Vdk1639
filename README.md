@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![麦门名片](./mcd-card.svg)
-
+![麦门名片](./mcd-card-receipt.svg)
+![麦门名片](./mcd-card-neofetch.svg)
+![麦门名片](./mcd-card-native.svg)
 <!--
 **Vdk1639/Vdk1639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
