@@ -16,4 +16,4 @@ jobs:
       - uses: colorfulee/McReadme-Card@main
         with:
           mcd_token: ${{ secrets.MCD_MCP_TOKEN }}
-          theme: receipt
+          theme: receipt,neofetch,native
